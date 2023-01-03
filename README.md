@@ -14,3 +14,5 @@ Ekosistem Pendukung
 - Spring sendiri tidaklah digunakan untuk menggantikan framework yang sudah ada, melainkan menjahit  framework-framework yang sudah ada, menjadi framework yang saling terintegrasi
 - Spring bisa digunakan terintegrasi dengan baik dengan Bean Validation, Java Persistence API, Servlet, dan lain-lain
 - Selain itu juga Spring bisa diintegrasikan dengan teknologi yang tidak standar bawaan Java, seperti MongoDB, Consul, Vault, Cassandra, dan lain-lain
+
+
