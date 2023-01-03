@@ -1,6 +1,6 @@
 # Teori-Server-Client <br> <br>
 
-# Pengenalan Spring Boot
+Pengenalan Spring Boot
 
 Spring Boot merupakan framework untuk mempermudah pembuatan aplikasi Spring Framework
 Dahulu untuk menggunakan Spring Framework, untuk pemula tidaklah mudah, karena terlalu banyak yang harus dilakukan sebelum bisa membuat aplikasi
@@ -8,7 +8,7 @@ Spring Boot menjadikan kompleksitas tersebut ditangani secara otomatis oleh Spri
 Spring Boot sekarang sudah menjadi salah satu framework wajib <br> <br>
 
 
-# Ekosistem Pendukung
+Ekosistem Pendukung
 
 - Spring memiliki ekosistem pendukung yang sangat besar
 - Spring sendiri tidaklah digunakan untuk menggantikan framework yang sudah ada, melainkan menjahit  framework-framework yang sudah ada, menjadi framework yang saling terintegrasi
